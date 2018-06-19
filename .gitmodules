@@ -1,0 +1,3 @@
+[submodule "QuantumProgrammingComparison"]
+	path = QuantumProgrammingComparison
+	url = https://github.com/IsaacSpeed/QuantumProgrammingComparison.git
