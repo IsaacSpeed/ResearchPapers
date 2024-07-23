@@ -1,2 +1,2 @@
-# ResearchPapers
-Any papers I've written (likely only CS) that I'm proud of go here.
+# Research Papers
+A place to store any technical writing that I'm proud of.
